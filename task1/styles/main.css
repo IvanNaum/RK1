@@ -1,0 +1,17 @@
+.style_1 {
+    color: blue;
+    background: #ffcc00;
+}
+
+.style_2 {
+    color: red;
+    background-color: rgb(8, 243, 255);
+    padding: 5px;
+    border: 1px solid silver;
+    border-radius: 10px;
+}
+
+.style_2:hover {
+    opacity: 0.8;
+    box-shadow: 0 0 5px #000;
+}

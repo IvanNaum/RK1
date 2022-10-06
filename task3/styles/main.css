@@ -1,0 +1,9 @@
+ol {
+    font-size: 1.2em;
+    color: black;
+}
+
+ol ul {
+    font-size: 0.9em;
+    color: rgb(81, 81, 81);
+}
